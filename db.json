@@ -1,5 +1,136 @@
 {
-    "resume":[{
-        
-    }]
+  "resume": [
+    {
+      "name": "oinjnkj",
+      "loc": "jjn j",
+      "job": "Graphic Designer",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Typography",
+        "Color Theory",
+        "Branding",
+        "Logo Design",
+        "Layout Design",
+        "Image Editing",
+        "Visual Communication"
+      ],
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "summary": "Creative graphic designer with expertise in visual communication, branding, typography, layouts, and digital design solutions.",
+      "id": 1
+    },
+    {
+      "name": ";lmlkm",
+      "loc": "",
+      "job": "Graphic Designer",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Typography",
+        "Color Theory",
+        "Branding",
+        "Logo Design",
+        "Layout Design",
+        "Image Editing",
+        "Visual Communication"
+      ],
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "summary": "Creative graphic designer with expertise in visual communication, branding, typography, layouts, and digital design solutions.",
+      "id": 2
+    },
+    {
+      "name": "sxdfcczcx",
+      "loc": "c",
+      "job": "Data Analyst",
+      "mail": "",
+      "contact": "",
+      "git": "",
+      "linkedin": "",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Pandas",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Statistics",
+        "Data Cleaning",
+        "Reporting"
+      ],
+      "degree": "",
+      "college": "",
+      "gradYear": "",
+      "summary": "Detail-oriented data analyst skilled in collecting, cleaning, analyzing, and visualizing data to support informed business decisions.",
+      "id": 3
+    },
+    {
+      "fullName": "erdd",
+      "location": "es",
+      "job": "Graphic Designer",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Typography",
+        "Color Theory",
+        "Branding",
+        "Logo Design",
+        "Layout Design",
+        "Image Editing",
+        "Visual Communication"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, typography, layouts, and digital design solutions.",
+      "address": "",
+      "id": 4
+    },
+    {
+      "fullName": "uytrea",
+      "location": "ee",
+      "job": "Node.js Developer",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "REST APIs",
+        "Middleware",
+        "Authentication",
+        "MongoDB",
+        "SQL",
+        "JWT",
+        "Error Handling"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services, REST APIs, authentication systems, and database-driven applications.",
+      "address": "",
+      "id": 5
+    }
+  ]
 }
